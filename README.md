@@ -21,5 +21,5 @@ Welcome to my portfolio guide! here is where I document all my projects and work
 ## 👨‍🏫 University Projects
 | Project | Completion Date | Tools | Project description |
 | :-----: | :-------------: | :---: | :-----------------: |
-| [FNAF Bros Brawl](https://github.com/dippy2214/FNAF-Bros-Brawl) | June 2024 | C++, Custom Engine | This project was made with a small team for the PS5, and is a platform fighter game. My main work on this project was on the camera and audio system, both of which I designed myself. I also helped with various bug fixing and menu implementation. |
+| [FNAF Bros Brawl](https://github.com/dippy2214/FNAF-Bros-Brawl) | June 2024 | C++, Custom Engine | This project was made with a small team for the PS5, and is a platform fighter game. My main work on this project was on the dynamic camera and audio system, both of which I designed myself. I also helped with various bug fixing and menu implementation. |
 
