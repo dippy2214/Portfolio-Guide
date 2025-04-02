@@ -7,7 +7,7 @@ Welcome to my portfolio guide! here is where I document all my projects and work
 | Project | Completion Date | Tools | Project description |
 | :-----: | :-------------: | :---: | :-----------------: |
 | [The Wiimote Project](https://github.com/dippy2214/The-Wiimote-Project) | Ongoing | C++, Windows API | This project is an application which can connect to a wii remote via a bluetooth connection and emulate keyboards inputs based on the wiimotes button presses, motion controls or IR pointer. the program manages the bluetooth connection, decoding the binary data the wii remote sends through its reports, and is coded soley in C++ using the windows API. |
-| [Checkers AI](https://github.com/dippy2214/Checkers-AI) | November 2024 | C#, Unity | This project was a checkers AI made by implementing a monte-carlo search tree, with some additional optimisations to improve performance in the end games. I found the development process very interesting, and it taught me a lot about the value of decoupling data from the UI |
+| [Checkers AI](https://github.com/dippy2214/Checkers-AI) | November 2024 | C#, Unity | This project was a checkers AI made by implementing a monte-carlo search tree, with some additional optimisations to improve performance in the end games. I found the development process very interesting, and it taught me a lot about the value of decoupling data from the UI. |
 | [FNAF Bros Brawl](https://github.com/dippy2214/FNAF-Bros-Brawl) | June 2024 | C++, Custom Engine | This project was made with a small team for the PS5, and is a platform fighter game. My main work on this project was on the camera and audio system, both of which I designed myself. I also helped with various bug fixing and menu implementation. |
 
 ## 🙋‍♂️ Personal Projects
@@ -21,8 +21,9 @@ Welcome to my portfolio guide! here is where I document all my projects and work
 ## 👨‍🏫 University Projects
 | Project | Completion Date | Tools | Project description |
 | :-----: | :-------------: | :---: | :-----------------: |
-| Visual Novel Tooling | April 2024 | C#, Unity | |
-| [Checkers AI](https://github.com/dippy2214/Checkers-AI) | November 2024 | C#, Unity | This project was a checkers AI made by implementing a monte-carlo search tree, with some additional optimisations to improve performance in the end games. I found the development process very interesting, and it taught me a lot about the value of decoupling data from the UI |
+| Visual Novel Tooling | April 2024 | C#, Unity | This is a tool that was written for my professional project in my third year of uni, to help designers implement the visual novel scenes that had been identified as a bottleneck by the team. This tool supports twine
+files and is built into the unity engine, and was a great time to develop through the first weeks of the group project. |
+| [Checkers AI](https://github.com/dippy2214/Checkers-AI) | November 2024 | C#, Unity | This project was a checkers AI made by implementing a monte-carlo search tree, with some additional optimisations to improve performance in the end games. I found the development process very interesting, and it taught me a lot about the value of decoupling data from the UI. |
 | Spider Man Swing Mechanic | November 2024 | C++, Unreal Engine | |
 | DirectX 3D Shaders Scene | November 2024 | C++, DirectX Custom Framework| |
 | [FNAF Bros Brawl](https://github.com/dippy2214/FNAF-Bros-Brawl) | June 2024 | C++, Custom Engine | This project was made with a small team for the PS5, and is a platform fighter game. My main work on this project was on the dynamic camera and audio system, both of which I designed myself. I also helped with various bug fixing and menu implementation. |
