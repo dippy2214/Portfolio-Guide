@@ -3,8 +3,10 @@ Welcome to my portfolio guide! here is where I document all my projects and work
 
 ## 📚 Tables of Contents
 [Highlights](https://github.com/dippy2214/Portfolio-Guide/blob/main/README.md#-highlights)
+
 [Personal Projects](https://github.com/dippy2214/Portfolio-Guide/blob/main/README.md#-highlights)
-[University Projects]()
+
+[University Projects](https://github.com/dippy2214/Portfolio-Guide/blob/main/README.md#-university-projects)
 
 ## ✨ Highlights
 | Project | Completion Date | Tools | Project description |
