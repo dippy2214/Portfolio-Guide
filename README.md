@@ -22,6 +22,8 @@ Welcome to my portfolio guide! here is where I document all my projects and work
 | Project | Completion Date | Tools | Project description |
 | :-----: | :-------------: | :---: | :-----------------: |
 | [Checkers AI](https://github.com/dippy2214/Checkers-AI) | November 2024 | C#, Unity | This project was a checkers AI made by implementing a monte-carlo search tree, with some additional optimisations to improve performance in the end games. I found the development process very interesting, and it taught me a lot about the value of decoupling data from the UI |
+| Spider Man Swing Mechanic | November 2024 | C++, Unreal Engine | |
+| DirectX 3D Shaders Scene | November 2024 | C++, DirectX Custom Framework| |
 | [FNAF Bros Brawl](https://github.com/dippy2214/FNAF-Bros-Brawl) | June 2024 | C++, Custom Engine | This project was made with a small team for the PS5, and is a platform fighter game. My main work on this project was on the dynamic camera and audio system, both of which I designed myself. I also helped with various bug fixing and menu implementation. |
 
 
