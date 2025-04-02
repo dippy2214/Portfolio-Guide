@@ -21,6 +21,7 @@ Welcome to my portfolio guide! here is where I document all my projects and work
 ## 👨‍🏫 University Projects
 | Project | Completion Date | Tools | Project description |
 | :-----: | :-------------: | :---: | :-----------------: |
+| Visual Novel Tooling | April 2024 | C#, Unity | |
 | [Checkers AI](https://github.com/dippy2214/Checkers-AI) | November 2024 | C#, Unity | This project was a checkers AI made by implementing a monte-carlo search tree, with some additional optimisations to improve performance in the end games. I found the development process very interesting, and it taught me a lot about the value of decoupling data from the UI |
 | Spider Man Swing Mechanic | November 2024 | C++, Unreal Engine | |
 | DirectX 3D Shaders Scene | November 2024 | C++, DirectX Custom Framework| |
