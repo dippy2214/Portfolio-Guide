@@ -21,8 +21,7 @@ Welcome to my portfolio guide! here is where I document all my projects and work
 ## 👨‍🏫 University Projects
 | Project | Completion Date | Tools | Project description |
 | :-----: | :-------------: | :---: | :-----------------: |
-| Visual Novel Tooling | April 2024 | C#, Unity | This is a tool that was written for my professional project in my third year of uni, to help designers implement the visual novel scenes that had been identified as a bottleneck by the team. This tool supports twine
-files and is built into the unity engine, and was a great time to develop through the first weeks of the group project. |
+| Visual Novel Tooling | April 2024 | C#, Unity | This is a tool that was written for my professional project in my third year of uni, which supports twine file loading and is built into the engine GUI. Developing this project was great fun for me, and through the first few weeks of the project I worked on this before moving to other tasks when it was in a complete enough state for the design team to make use of. |
 | [Checkers AI](https://github.com/dippy2214/Checkers-AI) | November 2024 | C#, Unity | This project was a checkers AI made by implementing a monte-carlo search tree, with some additional optimisations to improve performance in the end games. I found the development process very interesting, and it taught me a lot about the value of decoupling data from the UI. |
 | Spider Man Swing Mechanic | November 2024 | C++, Unreal Engine | |
 | DirectX 3D Shaders Scene | November 2024 | C++, DirectX Custom Framework| |
