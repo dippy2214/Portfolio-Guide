@@ -2,6 +2,9 @@
 Welcome to my portfolio guide! here is where I document all my projects and work
 
 ## 📚 Tables of Contents
+[Highlights]()
+[Personal Projects]()
+[University Projects]()
 
 ## ✨ Highlights
 | Project | Completion Date | Tools | Project description |
