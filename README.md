@@ -1,5 +1,5 @@
 # 🗺 Josh's Portfolio Guide
-Welcome to my portfolio guide! here is where I document all my projects and work
+Welcome to my portfolio guide! Here is where I document all my projects and work.
 
 ## 📚 Tables of Contents
 - [Highlights](https://github.com/dippy2214/Portfolio-Guide/blob/main/README.md#-highlights)
